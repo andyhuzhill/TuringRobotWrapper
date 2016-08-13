@@ -5,7 +5,7 @@
 #      Author   : Andy Scout
 #    E-mail     : andyhuzhill@gmail.com
 #
-#  Description  : Interface wrapper for tuling robot
+#  Description  : API wrapper for turing robot
 #  Revision     : V1.0 2016/08/13
 #
 # =============================================
